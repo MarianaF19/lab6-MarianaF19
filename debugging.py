@@ -54,5 +54,5 @@ def run_program():
         else:
             print("Invalid option. Please choose 1, 2, 3, or 4.\n")
 
-if name == "_main_":
+if __name__ == "_main_":
     run_program()
